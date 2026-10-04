@@ -1,12 +1,12 @@
 # K4-Track02-Day17 — Report cá nhân
 
-**Họ tên / MSSV:** NguyenBaChinh / 2A202602654 
+**Họ tên / MSSV:** Nguyễn Bá Chính / 2A202602654
 
 **Repo:** https://github.com/Bancainh/K4-Track02-Day17-NguyenBaChinh-2A202602654-DataPipelineEngineering
 
-**Commit bài nộp:** Chưa tạo commit; các thay đổi hiện ở working tree, cần commit/push trước khi nộp.
+**Commit code được verify:** `0e51e4d5f50349f4c317a82b7aad1bac2f75d41b`
 
-**AI đã dùng:** Codex hỗ trợ đọc đề, tìm/sửa lỗi, chạy kiểm tra và soạn báo cáo; học viên cần review diff và hiểu cách sửa.
+**AI đã dùng:** Codex hỗ trợ đọc đề, tìm/sửa lỗi, chạy kiểm tra và soạn báo cáo; ChatGPT hỗ trợ hướng dẫn workflow, review kết quả kiểm thử và kiểm tra repo trước khi nộp. Tôi đã review diff và chạy các kiểm tra thực tế trên máy.
 
 **Nguồn tham khảo:** README, SUBMISSION, RUBRIC, RULES, CHECKPOINTS và code trong repo; không dùng lời giải bên ngoài.
 
